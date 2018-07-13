@@ -10,7 +10,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Git and Programming with Python"
 
 
 #------------------------------------------------------------
@@ -23,7 +23,7 @@ kind: "workshop"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: <USERNAME>/<PROJECT>
+repository: sshrivastava224/2018-08-06-purdue
 
 # Email address, no mailto:
 email: "team@carpentries.org"
